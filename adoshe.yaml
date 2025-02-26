@@ -1,6 +1,6 @@
 workflows:
     name-workflow:
-        name: Flowdm8
+        name: adoshe
         max_build_duration: 120
         instance_type: mac_mini_m1
         integrations:
